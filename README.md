@@ -8,7 +8,7 @@ Refactored index and css
     -added comments for code annotation
    
 07.07.22
-![alt text](http://url/to/img.png)
+![alt text](https://user-images.githubusercontent.com/108253013/177896878-cd0e066c-b8e1-4013-bd57-93653ef9b2ce.png)
 github link: https://github.com/shuczhu/Challenge-1-Horiseon
 Deployed Application link: https://shuczhu.github.io/Challenge-1-Horiseon/
 
