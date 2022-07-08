@@ -12,5 +12,5 @@ Refactored index and css
 ![alt text](https://user-images.githubusercontent.com/108253013/177918419-00d824b6-e521-49c5-81aa-ac453fda1aaf.png)
 ![alt text](https://user-images.githubusercontent.com/108253013/177918522-8b1b6b71-2b91-473e-b773-206259554c70.png)
 github link: https://github.com/shuczhu/Code-Refactor/
-Deployed Application link: https://shuczhu.github.io/code-refractor/
+Deployed Application link: https://shuczhu.github.io/Code-Refractor/
 
